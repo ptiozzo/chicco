@@ -12,3 +12,17 @@ Tags:
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
+
+body{
+  margin: 0;
+  background: url(asset/img/sf.jpg) no-repeat center top #f8eeba;
+}
+
+h1{
+  font-size: 200px;
+}
+
+div.container{
+  height: 200px;
+  background: white;
+}
